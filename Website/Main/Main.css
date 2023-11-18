@@ -7,7 +7,9 @@
 }
 .links{
     color: snow;
+    text-decoration: none;
 }
 .moreInfo{
     background-color: navy;
+    text-decoration: none;
 }
