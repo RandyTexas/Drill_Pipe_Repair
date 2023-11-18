@@ -7,4 +7,18 @@
 }
 .links{
     color: snow;
+    text-decoration: none;
+}
+.color{
+    background-color: navy;
+    color: snow;
+}
+.moreInfo{
+    background-color: navy;
+    text-decoration: none;
+}
+
+
+.leadercol{
+    background-color: aqua;
 }
