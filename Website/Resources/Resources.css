@@ -3,12 +3,44 @@
     padding: 0;
 }
 #navBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background-color: navy;
 }
 .links{
+    margin: 0 15px;
     color: snow;
     text-decoration: none;
 }
+
+
+.mainBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+.ptech{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
+.space{
+    display: flex;
+    padding: 10px;
+}
+.box{
+    background-color: navy;
+    padding: 25px;
+    color: snow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
 .color{
     background-color: navy;
     color: snow;
@@ -16,4 +48,5 @@
 .moreInfo{
     background-color: navy;
     text-decoration: none;
+    color: snow;
 }

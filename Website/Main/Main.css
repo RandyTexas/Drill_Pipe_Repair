@@ -3,12 +3,19 @@
     padding: 0;
 }
 #navBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background-color: navy;
 }
 .links{
+    margin: 0 15px;
     color: snow;
     text-decoration: none;
 }
+
+
+
 .moreInfo{
     background-color: navy;
     text-decoration: none;
