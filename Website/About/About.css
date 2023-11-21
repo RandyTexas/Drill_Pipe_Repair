@@ -18,19 +18,60 @@
 .mainBox{
     margin: 0 20%;
 }
+.abtUsBox{
+    margin: 50px 0;
+}
+.abtUsBox h1{
+    text-align: center;
+    margin: 50px;
+}
 .shop{
-    
-    width: auto;
+    margin-bottom: 50px;
+}
+.leaderBox{
+    margin-top: 50px;
+}
+.leaders{
+    margin-bottom: 50px;
 }
 .leadercol{
-    background-color: aqua;
+    display: flex;
+    margin: 25px 0;
+    
+}
+.leadercol img{
+    height: 250px;
+    margin-right: 25px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.colorBox{
+    background-color: navy;
+    color: snow;
+    margin: 50px 0;
+    padding: 20px;
+}
+.locations{
+    display: block;
+    margin-bottom: 25px;
 }
 
 
 
+
+
+.color{
+    color: snow;
+}
 .moreInfo{
     background-color: navy;
     text-decoration: none;
+    color: snow;
 }
-
-
+.bottomLinks{
+    text-decoration: none;
+    color: snow;
+}

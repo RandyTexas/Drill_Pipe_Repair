@@ -16,7 +16,15 @@
 
 
 
+.color{
+    color: snow;
+}
 .moreInfo{
     background-color: navy;
     text-decoration: none;
+    color: snow;
+}
+.bottomLinks{
+    text-decoration: none;
+    color: snow;
 }
