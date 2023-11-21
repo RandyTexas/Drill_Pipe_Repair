@@ -14,12 +14,41 @@
     text-decoration: none;
 }
 
+.mainBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 20%;
+}
+.box1{
+    margin-bottom: 50px;
+}
+.box1 h1{
+    text-align: center;
+    margin: 50px 20px;
+}
+.drillPipe{
+    width: 900px;
+}
+.box2{
+    margin-top: 50px;
+}
+.box3{
+
+}
+.list{
+    
+}
 
 .color{
-    background-color: navy;
     color: snow;
 }
 .moreInfo{
     background-color: navy;
     text-decoration: none;
+    color: snow;
+}
+.bottomLinks{
+    text-decoration: none;
+    color: snow;
 }

@@ -14,16 +14,23 @@
     text-decoration: none;
 }
 
-.color{
-    background-color: navy;
-    color: snow;
+
+.mainBox{
+    margin: 0 20%;
 }
+.shop{
+    
+    width: auto;
+}
+.leadercol{
+    background-color: aqua;
+}
+
+
+
 .moreInfo{
     background-color: navy;
     text-decoration: none;
 }
 
 
-.leadercol{
-    background-color: aqua;
-}
