@@ -16,16 +16,54 @@
 
 
 
+.contactBox{
+    display: flex;
+    margin: 5% 20%;
+}
+.emailInfo{
+    margin-right: 50px;
+    flex: 2;
+}
+.email{
+
+}
+.userInfo{
+    
+}
+#send{
+    background-color: navy;
+    color: snow;
+    padding: 10px 20px ;
+    flex: 2;
+}
+
+
+
 
 .color{
     color: snow;
 }
 .moreInfo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
     background-color: navy;
     text-decoration: none;
     color: snow;
 }
+.info{
+    display: flex;
+    flex-direction: row;
+}
+.info h5{
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: larger;
+}
 .bottomLinks{
+    margin-right: 20px;
     text-decoration: none;
     color: snow;
 }
