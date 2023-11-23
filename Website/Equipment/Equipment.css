@@ -16,6 +16,27 @@
 
 
 
+.mainBox{
+    display: flex;
+    flex-direction: column;
+    margin: 5% 20%;
+}
+.mainBox h1{
+    text-align: center;
+    margin: 10px 0;
+}
+.machines{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.cnc{
+    margin: 20px 0;
+}
+.idk{
+    margin: 20px 0;
+}
+
 .color{
     color: snow;
 }
